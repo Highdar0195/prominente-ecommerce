@@ -1,4 +1,4 @@
-import { AuthProvider } from "../src/utils/contexts/AuthContext";
+import { AuthProvider } from "../src/utils/contexts/authContext";
 import { ProductsProvider } from "../src/utils/contexts/productsContext";
 import { UsersProvider } from "../src/utils/contexts/usersContext";
 import { OrdersProvider } from "../src/utils/contexts/ordersContext";

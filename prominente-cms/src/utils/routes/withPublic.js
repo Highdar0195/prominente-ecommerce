@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import { useAuth } from "../contexts/AuthContext";
+import { useAuth } from "../contexts/authContext";
 
 const withPublic = (Component) => {
   return function WithPublic(props) {
